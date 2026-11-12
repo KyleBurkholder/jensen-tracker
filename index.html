@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jacket Off: The Jensen Huang Exit Tracker</title>
+<style>
+  :root {
+    --bg: #0d0f0c; --card: #171a15; --line: #2a2f26; --text: #eef0ea;
+    --muted: #9aa392; --green: #76b900; --amber: #e8b339; --grey: #7d8577; --blue: #5fb3d9;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 720px; margin: 0 auto; padding: 20px 16px 48px; }
+  h1 { font-size: 1.9rem; line-height: 1.15; margin: 8px 0 4px; letter-spacing: -0.02em; }
+  h1 span { color: var(--green); }
+  .tag { color: var(--muted); margin: 0 0 20px; }
+  h2 { font-size: 1.05rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 32px 0 12px; }
+  .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .stat { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .stat b { display: block; font-size: 1.7rem; line-height: 1.1; color: var(--green); }
+  .stat small { color: var(--muted); }
+  .event { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--grey); border-radius: 12px; padding: 14px; margin-bottom: 10px; }
+  .event.confirmed { border-left-color: var(--green); }
+  .event.reported { border-left-color: var(--amber); }
+  .event.upcoming { border-left-color: var(--blue); }
+  .event .top { display: flex; justify-content: space-between; gap: 8px; align-items: center; margin-bottom: 6px; }
+  .event time { color: var(--muted); font-size: 0.85rem; }
+  .chip { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 8px; border-radius: 99px; color: #0d0f0c; background: var(--grey); white-space: nowrap; }
+  .confirmed .chip { background: var(--green); }
+  .reported .chip { background: var(--amber); }
+  .upcoming .chip { background: var(--blue); }
+  .event h3 { margin: 0 0 4px; font-size: 1.05rem; }
+  .event p { margin: 0 0 6px; color: #cfd4c8; }
+  .event .quip { color: var(--muted); font-style: italic; font-size: 0.92rem; }
+  a { color: var(--green); }
+  .news { list-style: none; padding: 0; margin: 0; }
+  .news li { border-bottom: 1px solid var(--line); padding: 10px 0; }
+  .news small { display: block; color: var(--muted); }
+  .rules, footer { color: var(--muted); font-size: 0.9rem; }
+  .rules { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 4px 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Jacket <span>Off</span></h1>
+  <p class="tag">The Jensen Huang exit tracker. Public record only. Rumors stay in the group chat.</p>
+
+  <div class="stats">
+    <div class="stat"><b id="daysCeo">–</b><small>days Nvidia has had no permanent CEO</small></div>
+    <div class="stat"><b>33</b><small>years in the job before he left</small></div>
+    <div class="stat"><b>1</b><small>affair admission, from the man himself</small></div>
+    <div class="stat"><b>0</b><small>rumors printed here. This number stays at zero.</small></div>
+  </div>
+
+  <h2>Timeline</h2>
+  <div id="timeline"></div>
+
+  <h2>Latest headlines <small id="newsStamp" style="text-transform:none;letter-spacing:0"></small></h2>
+  <ul class="news" id="news"><li>No headlines loaded yet. The robot updates this list a few times each day.</li></ul>
+
+  <h2>House rules</h2>
+  <div class="rules">
+    <p><b>Confirmed</b> = a company filing or a statement from the person. <b>Reported</b> = named news outlets say so, but no primary document is linked here.</p>
+    <p>No names of private persons. No anonymous claims. The headline list comes from an allow-list of established outlets and this page does not verify those stories.</p>
+  </div>
+
+  <footer><p>An unofficial fan-made page. Not affiliated with NVIDIA. Jokes are about the corporate drama, not the family.</p></footer>
+</main>
+
+<script>
+// ---- Curated timeline. Edit this list to add events. ----
+// status: "confirmed" | "reported" | "upcoming"
+const EVENTS = [
+  {
+    date: "2026-11-17", status: "upcoming",
+    title: "Earnings day, with a new name on the call",
+    text: "NVIDIA keeps its schedule for the third-quarter fiscal 2027 results, with the earnings call at 2 p.m. Pacific time.",
+    quip: "First call in decades where nobody asks about the jacket.",
+    src: "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm", srcName: "NVIDIA 8-K"
+  },
+  {
+    date: "2026-11-12", status: "confirmed",
+    title: "Huang resigns. CFO Colette Kress is interim CEO.",
+    text: "He leaves the President, CEO and board roles, effective immediately. Harvey C. Jones becomes the first Chair of the Board.",
+    quip: "The company that ships everything late did this one fast.",
+    src: "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm", srcName: "NVIDIA 8-K"
+  },
+  {
+    date: "2026-11-09", status: "reported",
+    title: "The stock has a bad morning",
+    text: "Shares fall about 8% at the open, more than $350 billion in market value, then get some of it back later in the day.",
+    quip: "Roughly one small country of GDP, gone before lunch.",
+    src: "https://tech-insider.org/nl/nvidia-350-miljard-beurswaarde-gevolgen-ai-chipmarkt-2026/", srcName: "Tech Insider (cites NOS)"
+  },
+  {
+    date: "2026-11-09", status: "reported",
+    title: "The board opens an independent investigation",
+    text: "The review follows news reports that Huang was the target of a foreign intelligence effort. The intelligence part is reporting, not a finding.",
+    quip: "Plot twist nobody had on the keynote bingo card.",
+    src: "https://technode.global/tag/jensen-huang/", srcName: "TechNode Global"
+  },
+  {
+    date: "2026-11-08", status: "confirmed",
+    title: "Huang says he was unfaithful to his wife",
+    text: "He makes the admission in a public statement on Sunday. This is the only affair on this page, because it is the only one with a first-hand source.",
+    quip: "Confirmed by the highest authority available: the man himself.",
+    src: "https://tech-insider.org/nl/nvidia-350-miljard-beurswaarde-gevolgen-ai-chipmarkt-2026/", srcName: "Tech Insider"
+  }
+];
+
+const RESIGNED = new Date("2026-11-12T00:00:00");
+const LABEL = { confirmed: "Confirmed", reported: "Reported", upcoming: "Upcoming" };
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text !== undefined) e.textContent = text;
+  return e;
+}
+function safeLink(url, text) {
+  const a = el("a", "", text);
+  if (/^https?:\/\//i.test(url)) { a.href = url; a.target = "_blank"; a.rel = "noopener noreferrer"; }
+  return a;
+}
+function niceDate(iso) {
+  const d = new Date(iso.length === 10 ? iso + "T12:00:00" : iso);
+  return isNaN(d) ? "" : d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+}
+
+// Counter
+const days = Math.max(0, Math.floor((Date.now() - RESIGNED.getTime()) / 86400000));
+document.getElementById("daysCeo").textContent = days;
+
+// Timeline
+const tl = document.getElementById("timeline");
+EVENTS.slice().sort((a, b) => b.date.localeCompare(a.date)).forEach(ev => {
+  const card = el("div", "event " + ev.status);
+  const top = el("div", "top");
+  top.append(el("time", "", niceDate(ev.date)), el("span", "chip", LABEL[ev.status] || ev.status));
+  card.append(top, el("h3", "", ev.title), el("p", "", ev.text), el("p", "quip", ev.quip));
+  const src = el("small"); src.append("Source: ", safeLink(ev.src, ev.srcName));
+  card.append(src);
+  tl.append(card);
+});
+
+// Automatic headlines (news.json is written by the GitHub Action)
+fetch("news.json?ts=" + Date.now())
+  .then(r => r.ok ? r.json() : Promise.reject())
+  .then(data => {
+    const items = (data.items || []).slice(0, 15);
+    if (!items.length) return;
+    const list = document.getElementById("news");
+    list.textContent = "";
+    items.forEach(it => {
+      const li = el("li");
+      li.append(safeLink(it.link, it.title), el("small", "", [it.source, niceDate(it.published)].filter(Boolean).join(" · ")));
+      list.append(li);
+    });
+    if (data.updated) document.getElementById("newsStamp").textContent = "· updated " + niceDate(data.updated);
+  })
+  .catch(() => {});
+</script>
+</body>
+</html>
