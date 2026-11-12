@@ -47,25 +47,29 @@
 <body>
 <main>
   <h1>Jacket <span>Off</span></h1>
-  <p class="tag">The Jensen Huang exit tracker. Public record only. Rumors stay in the group chat.</p>
+  <p class="tag">The Jensen Huang exit tracker. Public news only. Allegations are labeled as alleged.</p>
 
   <div class="stats">
     <div class="stat"><b id="daysCeo">–</b><small>days Nvidia has had no permanent CEO</small></div>
     <div class="stat"><b>33</b><small>years in the job before he left</small></div>
     <div class="stat"><b>1</b><small>affair admission, from the man himself</small></div>
-    <div class="stat"><b>0</b><small>rumors printed here. This number stays at zero.</small></div>
+    <div class="stat"><b id="allegedCount">0</b><small>alleged items in the feed, labeled as alleged</small></div>
   </div>
 
-  <h2>Timeline</h2>
-  <div id="timeline"></div>
+  <h2>Alleged <small style="text-transform:none;letter-spacing:0">· reported, not proven</small></h2>
+  <ul class="news" id="alleged"><li>Nothing alleged in the feed at this time. A quiet hour.</li></ul>
 
   <h2>Latest headlines <small id="newsStamp" style="text-transform:none;letter-spacing:0"></small></h2>
-  <ul class="news" id="news"><li>No headlines loaded yet. The robot updates this list a few times each day.</li></ul>
+  <ul class="news" id="news"><li>No headlines loaded yet. The robot updates this list each hour.</li></ul>
+
+  <h2>The story so far</h2>
+  <div id="timeline"></div>
 
   <h2>House rules</h2>
   <div class="rules">
     <p><b>Confirmed</b> = a company filing or a statement from the person. <b>Reported</b> = named news outlets say so, but no primary document is linked here.</p>
-    <p>No names of private persons. No anonymous claims. The headline list comes from an allow-list of established outlets and this page does not verify those stories.</p>
+    <p><b>Alleged</b> = a headline from an established outlet that reports a claim, an accusation or an investigation. An allegation is not a fact. This page does not verify these stories and adds no claims of its own.</p>
+    <p>The two headline lists update automatically each hour from an allow-list of established outlets.</p>
   </div>
 
   <footer><p>An unofficial fan-made page. Not affiliated with NVIDIA. Jokes are about the corporate drama, not the family.</p></footer>
@@ -106,7 +110,7 @@ const EVENTS = [
   {
     date: "2026-11-08", status: "confirmed",
     title: "Huang says he was unfaithful to his wife",
-    text: "He makes the admission in a public statement on Sunday. This is the only affair on this page, because it is the only one with a first-hand source.",
+    text: "He makes the admission in a public statement on Sunday. This is the only affair with a first-hand source.",
     quip: "Confirmed by the highest authority available: the man himself.",
     src: "https://tech-insider.org/nl/nvidia-350-miljard-beurswaarde-gevolgen-ai-chipmarkt-2026/", srcName: "Tech Insider"
   }
@@ -151,15 +155,22 @@ EVENTS.slice().sort((a, b) => b.date.localeCompare(a.date)).forEach(ev => {
 fetch("news.json?ts=" + Date.now())
   .then(r => r.ok ? r.json() : Promise.reject())
   .then(data => {
-    const items = (data.items || []).slice(0, 15);
-    if (!items.length) return;
-    const list = document.getElementById("news");
-    list.textContent = "";
-    items.forEach(it => {
-      const li = el("li");
-      li.append(safeLink(it.link, it.title), el("small", "", [it.source, niceDate(it.published)].filter(Boolean).join(" · ")));
-      list.append(li);
-    });
+    const all = data.items || [];
+    const fill = (id, items, prefix) => {
+      if (!items.length) return;
+      const list = document.getElementById(id);
+      list.textContent = "";
+      items.slice(0, 15).forEach(it => {
+        const li = el("li");
+        if (prefix) { const c = el("span", "chip", prefix); c.style.cssText = "background:var(--amber);margin-right:6px"; li.append(c); }
+        li.append(safeLink(it.link, it.title), el("small", "", [it.source, niceDate(it.published)].filter(Boolean).join(" · ")));
+        list.append(li);
+      });
+    };
+    const alleged = all.filter(it => it.alleged);
+    fill("alleged", alleged, "Alleged");
+    fill("news", all.filter(it => !it.alleged), "");
+    document.getElementById("allegedCount").textContent = alleged.length;
     if (data.updated) document.getElementById("newsStamp").textContent = "· updated " + niceDate(data.updated);
   })
   .catch(() => {});

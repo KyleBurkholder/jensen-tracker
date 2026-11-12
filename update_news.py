@@ -4,6 +4,7 @@ Standard library only. The GitHub Action runs this file on a schedule.
 Only outlets in ALLOWED are kept, so gossip sites do not reach the page.
 """
 import json
+import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -19,6 +20,14 @@ ALLOWED = {
     "financial times", "the verge", "bbc", "npr", "the washington post",
     "axios", "fortune", "sec.gov", "nvidia newsroom",
 }
+
+
+# A headline with one of these words goes in the "Alleged" section of the page.
+ALLEGED = re.compile(
+    r"alleg|reportedly|accus|\bclaims?\b|rumou?r|sources? says?|said to|"
+    r"according to|\bprobe\b|investigat|whistleblow|lawsuit|\bsues?\b",
+    re.IGNORECASE,
+)
 
 
 def parse(xml_text):
@@ -40,9 +49,10 @@ def parse(xml_text):
             published = parsedate_to_datetime(item.findtext("pubDate")).astimezone(timezone.utc).isoformat()
         except Exception:
             published = ""
-        items.append({"title": title, "link": link, "source": source, "published": published})
+        items.append({"title": title, "link": link, "source": source, "published": published,
+                      "alleged": bool(ALLEGED.search(title))})
     items.sort(key=lambda i: i["published"], reverse=True)
-    return items[:25]
+    return items[:40]
 
 
 def main(out_path="news.json"):
