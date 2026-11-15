@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:59:38.469048+00:00",
+  "updated": "2026-11-15T17:45:26.427602+00:00",
   "groups": {
     "1": [
       {
@@ -169,17 +169,31 @@
   },
   "items": [
     {
-      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
+      "title": "It’s not just an affair. Nvidia’s bigger issue could be chip smuggling.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2hPSWp5RThSSER6RU9KM2xsRkplcUx2eXVFdUlLYURuQ0tkQVFPeDRUa0t6cUJ2TmRMU0pFaGV1YU1GalExUWtqVTc4LS10THUyRFJJeXI3cUt4Sm9uRWhTOElzYzJhekJUWTR4RXRoQXV4aGR2NzRMZmdDTDFQVXVrSkd3Z0N6OFhvTGNFS0U0M1A0bGJKMUVOaTdscEZQakYxR3hoakxMdHpCaHVEVExyZ0o4Q1FLYkE?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-15T17:33:09+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang’s Downfall",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZDl3ZWFXbzYyNDZKMlV3Vk4ybU5ZclFSNmcwZDlPa09pUi1XRmV5ZDdJRlBMMGl2SThNY2dGY1Q4SExpdHVRR0NwUVExd2I2d0JVUndKOG1PYXYybGlIRGdGYUw3T3BtNTdR?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-15T15:55:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUm9IdVZ5VzluRUU1a05WdV83eWFQZVJOWXJCaVV4amVCWmk0VU9BYlJYc3NpejdJWUJPWm9sUVkwQTVnekQ4RHQyVGNyVWNHVVVrMkhBLVVaSmJnbXVZUmtMZEdpVW1yTEtjQjVPVTZJMWdVNGo3RzBuNURVN1JiZHpB?oc=5",
       "source": "The New York Times",
-      "published": "2026-11-15T10:41:18+00:00",
+      "published": "2026-11-15T12:40:00+00:00",
       "alleged": false
     },
     {
       "title": "Tech Leaders Rally Behind Jensen Huang",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmRyS2taLTh6OWp4U3FWcnVwYzBqaDZBVzkzTkRIMkpfVlBmTUpIMUtmeUtVcnJma1kwcnlPdDd0akhqZE9NaHJpMTB0WWdEd2xNMldmUDJ6VjNqZHl3a0wxVVVKY19JeHpCSFRYZWFvcVRvcFJwWVdrTlJwTm5HV1NzNGlKY2YzYUx3RFBR?oc=5",
       "source": "The New York Times",
-      "published": "2026-11-14T20:57:38+00:00",
+      "published": "2026-11-14T18:29:56+00:00",
       "alleged": false
     },
     {
@@ -211,10 +225,17 @@
       "alleged": false
     },
     {
-      "title": "Musk joins calls for Jensen Huang to be reinstated as CEO of Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhlbTRQQ1N5SDNnU3V2a1BObGlkTXFTUm5QalRXS1NIaXVYUU4yajluRkwxdUt4ZllpNVpCVWdHOGM3Q0Jqc3BXRWxobnJzcjdxYkZ1YU9kZ1pmX1gyZ2JTT3BYbWVRTlR1VkZjemZkTmhrRjYtUFlBbmdidTdtQzhpMlR2QldFUlF5ZVlXUzhXb0J5WmhXay1LVkdsVkNCQ3pxaWRHZXk5UQ?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-14T06:21:48+00:00",
+      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-14T13:11:58+00:00",
+      "alleged": true
+    },
+    {
+      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-14T08:00:00+00:00",
       "alleged": false
     },
     {
@@ -232,13 +253,6 @@
       "alleged": false
     },
     {
-      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-14T00:25:00+00:00",
-      "alleged": true
-    },
-    {
       "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2U3Yy1DMTN6MDFSWHFMcDRNYXR6Yzc1OTJsV2RqXzMtUHU2UlJHdnhDV1J4X2oyWGxIb2NWYzlzQ2JJMXZxTm90OVZfVURkbV8zdnp3MmFKT1N5aF9sazU4RVIyZU1mYTh2MkpUSDNxTDVrLV9DWG1xOFQ3ZGRDZjl30gGHAUFVX3lxTE1pdngxMkNyUXg0WklPNmttdFR2NzhCc0pNMTVRbm5zOW5sMmFkZGhoYUVJRHJVZ25nLUhWaElJTW5XMEFmcFN1MXFWXzJ6NnFIX3lwc0JpdGlWNWlkWkhYQ2ZBaHdYRnc2UlM2VTJTcTI4UVMtenVSTnVEd0hyeWZsV2pFTVV5dw?oc=5",
       "source": "CNBC",
@@ -253,31 +267,24 @@
       "alleged": false
     },
     {
-      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "title": "Jensen Huang Lost His Job. Wall Street Lost Its Biggest Prize.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXBvOHJYRmdHTG5FaUpvVVRoRFZaLUlWeXNHQ01ZZi1ReXBJRUVIUnNCN0g5blRzNjdCUE9VNGJPQnI2S29obU9SdmpLTU5mMEhJRDVsQTNKM093b3Z6NzhTTF92NDI1T3lIZmZCQzNHSHo1bHpYbExlM05WR0F0cmduSHpwTnc?oc=5",
       "source": "The New York Times",
       "published": "2026-11-13T16:57:39+00:00",
       "alleged": false
     },
     {
-      "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+      "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0ktRGc4QkFrV3FLTDFENm9CcFBEUEZsQlk4MXlfQzlLRW1iNUxYNnlHb1k2X1NiT2R2Rm5KT2tLUmJUbGxhWGprd1MyNDM4YnNmQVhnSi1hSDIyN1ktUnNUSWdiQWphT0xtczJOcTZlZE9OMGd2Z3lkYjVHdzl3aWlLaWZ1Ukp6cUpkaF9rRVUwZw?oc=5",
       "source": "The New York Times",
       "published": "2026-11-13T16:06:55+00:00",
       "alleged": false
     },
     {
-      "title": "Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now",
+      "title": "Jensen Huang’s Leather Jacket Comes Back to Bite Him",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjFQQWVpeVRvcEs5WTJickdmOFp3dC01YnE5TnJYdEN2Q1Q1SVBfeHY2UVpyRWdLN3J2bHp6TVAzUk1ya3pYeHJsd2s5LUN0OEpVNmE0UjVmcEt2R0tjRklzVXlBZlhCOFZIX19RaU45RTRzX3F2Z2h6TkJfM2tVWGxfYUhKeUo4VHJr?oc=5",
       "source": "The New York Times",
       "published": "2026-11-13T16:02:30+00:00",
-      "alleged": false
-    },
-    {
-      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmVPNWtoSGZwRHo4alI0Ql9LT1ZuN2ZmTFNDSkR0REg0M3FPYy1rLW05SGdCbHBOWV9FR0diZE1KVmVSUGFRNlZpN3BoNkRvWWJUa21WNE14bDBXTzJqWXY2T3B3YVFtRlJVdGM3SlBWTVB6ZHpleUlzT1hvUnpMYktobDJLUGNp0gGOAUFVX3lxTE10dDVweW9VX1NSdy1Md2JSWE5rbVRXOEo5N1FFVFVhaUJGakRfQ29scXdIOEh2QlJPQ29PcjhZN2JvNm1wWnlKdnpNRC1RQ1p3dG9rRjRvSHJQYkprODBoc2FhbDFlUFROS3Q1RkF0c3VReDJXY2Myd2pEa0VmRjlvYURzeFctaEQzWS10VGc?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-13T12:54:43+00:00",
       "alleged": false
     },
     {
@@ -285,6 +292,20 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVBwUmlIZGd3UUo1X01qNVB1d05JTkV4RjVOLU1GVDZmeUpGUXpGUVNUOTJxLVZqSGJfSzV2QmlDYlJWRlNvdjdTd0xXamFOUmg5MW1OLUhPaXc3cGcxNG45WnNvaXBsTk5MYUFBRUcyR2hkY1YwcEo4MjhGVHdCbmx3N01LLU12Wnc?oc=5",
       "source": "The New York Times",
       "published": "2026-11-13T10:04:36+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Opinion | Jensen Huang Is Gone. Good.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVjhFX3dJelZERzFtS2RwdFM2OWl2Qzc5c210WmdVQ1lsOGRHX1lFSmM0N1FNOElQVkxTMFFiUlBsaVRva1hxYVE1ektPMkJtUGVZR1Y3TDF2YXhuRG54Y2VfbnZQUVZYbS00YkF5cjJsNjBMMlE?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-13T10:04:14+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
+      "source": "AP News",
+      "published": "2026-11-13T03:24:00+00:00",
       "alleged": false
     },
     {
@@ -302,10 +323,10 @@
       "alleged": false
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-13T00:04:59+00:00",
+      "title": "Nvidia Updates: Huang’s Resignation Reverberates Through A.I. Industry",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWxaN0tPUFI1US1TR2ppVnJqdmVuQTJLWmI0LVNDSDc0YkNOdjgxQUQ2elZjQjRQZzlyVlZuTGU4NndKOFJVT3dUeXBFNUhHV2c0d05lVndNVzZoZHZ6YWVqel8zN2l5Wnc0OXg3M3RxVWIxZ0RuMUptWm13YWRTR0dB?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-13T01:02:00+00:00",
       "alleged": false
     },
     {
@@ -320,27 +341,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TMk9GSXpPQWRmemVaSjRsSjVMaGRyQWl0dnBWN2dxcjd3OC1KWF9waTZHTlVoVjUwOERRc3RGcjA1V25Ha2cxYl94Y0RROWpfME5scHVxYjRfdExxbVlpRnFZaFpxWGNOTVRaZ01ZZ2FOTW9Gb1E?oc=5",
       "source": "The New York Times",
       "published": "2026-11-12T22:09:03+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Jensen Huang built Nvidia into a $4 trillion AI giant but his 4% stake wasn't enough to save his job",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZWhGMUYwbEtEVUh1T05OeE1RUmJsWVdFR281N1ZTNXM4a0o5eXZBRndFUWhLOWlocWFpLXJ2ckRJTGl6a0Y2b3BKVENIbWZpbXp4VEs1UEs5dEphaHk0emtVdm1jUjh0MTk4Ukc3WlRJUjg5TF9qUVdoZldmNnhrV19zWGQ5b3lNQVFBOFJEdWRnYldJSTRKUzQxSm1PR2Z4TkVWSmhwd05ncGM4MHBSX3JmSW8xc3VrM2JZWDF4SkRoNXp4VFN0dTFVbTEzM01oLV9abEp3Y1poS3FUQlE?oc=5",
-      "source": "Fortune",
-      "published": "2026-11-12T18:28:00+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MOHRYci13aWFVQTZaTU1YaWhNamhHdjBmUEsxRk1vZlVVM0JwaUdLTldZc3M3MnlGRzRENm9QeUNRLXVNcFBTV2hYSk9NVjM1TE5JOFlIeXhybHZQYmJjcTdXdkdPSEZzTUVBM3I4bFY2aHlVMmdz?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-12T17:57:00+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LV25wOFJyUll0dnZqV2lvQTFGREdqVnJnNDRFSVpoZGFISHJFREVBOUJUWlNGUm5iZy1JcDJIdHdGaXZPcjdBdTdNcUFRVlM4YnFvcE1qVEV1X3Bqck5sR1ZwVk5IWFlRcHFQanpsRktRUDDSAXhBVV95cUxQTHdzNVM4M3ZWQWJNNVl3OGFOQjRob1VkRzg3aGtKU0JSYkpocVFGZ2N3ZGlYYUE5WmV5d0NlSThxM09lYlRVdHM1czRQRUlBS1FSdllyZUR6S3hkT1VhZFc1UW1TRVFxN0JCNDExaGpYLW9TOHpnNHo?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-12T16:55:01+00:00",
       "alleged": false
     },
     {
@@ -379,10 +379,17 @@
       "alleged": false
     },
     {
-      "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGxLNjZNa25ON3VOUTBoQXNEV0hsdlBFaWdsRklhaWVRSHhnR1ZDbFB4LUc4NE9XVmZVbF91bk4ybVJzMVAwZXZCZHJqU3ZxR1gzdjQyYmprYmo4UHJCNERfZDYxaDdLdlBrS01zNEE1Mm9jM0pOOFdlM2FFbGVmREdTTktwV3RHQm1Wd3duWWNVdEliRU04UGJNUjhXUmZDYXfSAacBQVVfeXFMT2pJb0xWQlJDRWQ0dV9TU3dGM3ladWplS2JuT0ptVDFhR1FWaFgtNzlja0tEX2lWY2FuUjJZMkNIbVZwLW5ibUlnd0NBRmc4T2k4ZG1WWC15T3p0b09YaEREeGUzQ0txRUlVRHo3eHY3QWx1UWI2c3NuSEVCU3NVMzl2NGM3YTlnaDRfdHM5U0JyQ25HNlVlQUNLd084dWV6X2VVUEl1TWc?oc=5",
+      "title": "How Jensen Huang's scandal unfolded - and what's next for Nvidia?",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50NEdXOVhlTlpjSUhXVTVSa0hNWkRPZWdzZHJSMDlHRUZlVlN3SE5iS2pGM2FKRDdkblNoMWEwU3VFZUVrWm1rQTkxTWFuMXY0UWlmbUlTM1Q?oc=5",
+      "source": "BBC",
+      "published": "2026-11-12T12:42:44+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVFBOVnFZT1F2M3oteUktWm1qb29oLW5DLW9MZ2pBRzhEenlNZWFERC1NRXJlSV9saDN5MmNRZzdzQm0xQ0hWSzVpSktBSy00aDZlUTcyQzd2Vmlia1F1UTlEdE11anNMVE10RDNEVlc4cUlMcW5CRlpxaWFEbDh2Mg?oc=5",
       "source": "CNBC",
-      "published": "2026-11-12T14:13:15+00:00",
+      "published": "2026-11-12T09:02:10+00:00",
       "alleged": false
     },
     {
@@ -391,13 +398,6 @@
       "source": "CNBC",
       "published": "2026-11-12T03:25:00+00:00",
       "alleged": false
-    },
-    {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3b3lFR3FsVWJIVm14ZHJ2Mk4ybXR5SlhndUdRQmN5cjEtcW03NG5pdnFRSDV0WExCVmtsOVVlNVQ3TmtEaExPOEJ1UlVYYmRsWkwxYTdWWF95alBnNHpnZUotNGtvNUk?oc=5",
-      "source": "The Verge",
-      "published": "2026-11-11T22:44:36+00:00",
-      "alleged": true
     },
     {
       "title": "Jensen Huang Resigns From Nvidia After Affairs",
