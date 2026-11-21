@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:59:57.246635+00:00",
+  "updated": "2026-11-21T23:22:05.809960+00:00",
   "groups": {
     "1": [
       {
@@ -172,7 +172,14 @@
       "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
       "source": "The New York Times",
-      "published": "2026-11-21T17:50:38+00:00",
+      "published": "2026-11-21T15:55:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Nvidia’s Interim C.E.O. Tries to Soothe a Rattled Company: ‘We’ve Got This.’",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2dJSnFrVWt3REVkbE5CbllIMi1jZnFlRmtPbmZJM09SbmpoOEhVWElRVElyY00xc29ZLXA5T2wtRWFHQ0YzMG1jdjRPZWM4d2RaR05ja3Y3TGx5LURKVTk4allMbzduWC1uNVJSZmM4SlB6SjBiSVdWLXI5OW83V1RZcjF1SmctMzhaMXlHOXNSOXQycWc?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-21T14:31:00+00:00",
       "alleged": false
     },
     {
@@ -239,13 +246,6 @@
       "alleged": false
     },
     {
-      "title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazk0b19YRzZMSjFudnc5Nm4xLTNNMjQ5RDBCRDVuZjBYZzUtdzRMOGpsT1hob0lqbGNDR2hwREJGeUh6UWtGTTgxLVFmVXB4d0JWWTN4eTBqRU54VDcyTEVrYm5xdmQ4cGpLc2F3OVYxOFlrQW5Ga2ZwSEoxLTFVVTdnMUFpa0V6ZjFFSDNNU3g5VkxFeU5jbGxpYW81UDBlSk13WXMyZ21tdnplTFY2cXNvT3NobFhCVmE0?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-19T02:00:00+00:00",
-      "alleged": false
-    },
-    {
       "title": "How We Broke Open the Nvidia Investigation",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUxOZnMxNzdFQXhYSGY3SjhOTUhTbHViZnlrOTM0ejU1QWVOLTF0Z1VhWXFDVnpHRWNfM3p4VVlyMGtnREJjRDVaX0ZUaEtkUHQya3FPZzk0QV9seVU4Y1Uwam5hcTQ2UlBEaHV3TXA5ZmFNS01UNnktdEZXeXpGbXJNQ3VnUQ?oc=5",
       "source": "The New York Times",
@@ -257,13 +257,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHlsTnZZSU9BNjZuZUZvQXBGUkZnc2hxZ2U4cE5WWkE2OG81eUZxVTVsRHdaMTVGdFBTWnBSQUZhS0lBOEhJdVhCNjJ5ZURrOGlCekFWU010bWRjRXJQd1JuVFRSbGRtYWl4STNlVFNrREdVV3BXYW4zRDlMNGFoek5TbkVLaVlaWGpCcjJrVXJzb2xHQ0xNUm50U2V2YUVPRlJrYdIBqgFBVV95cUxNNzZwUmstbGVkVFNDZ3FfTkNYRHZmUlhMRGJvbENlNG1sRl9MZjJjSVpORzVvRTZ2ZWNJWWRTQ2pkYlY4ZTdpMzhfN1AwVzZzSWUxR1hPR2pCWDJPLTIxZGdMT0JMLVdZUUlyWWVxT2ZsNXFwZ2VEZ2czRl9Ya3NDVEFBZF9wb0lOMVlnczBIazh1OHdJTFRCYXVNTWU1RVVjQnBWREQxQ005Zw?oc=5",
       "source": "CNBC",
       "published": "2026-11-18T19:09:18+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Nvidia’s Interim C.E.O. Tries to Soothe a Rattled Company: ‘We’ve Got This.’",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2dJSnFrVWt3REVkbE5CbllIMi1jZnFlRmtPbmZJM09SbmpoOEhVWElRVElyY00xc29ZLXA5T2wtRWFHQ0YzMG1jdjRPZWM4d2RaR05ja3Y3TGx5LURKVTk4allMbzduWC1uNVJSZmM4SlB6SjBiSVdWLXI5OW83V1RZcjF1SmctMzhaMXlHOXNSOXQycWc?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-18T18:40:53+00:00",
       "alleged": false
     },
     {
@@ -309,13 +302,6 @@
       "alleged": false
     },
     {
-      "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVF2cDIwWEpiWEpTYjNSNFBJY1dVMjNTaXJyLUpBYmZ6XzdpR0dHY0EtdGlWdlNLUmFCbFE4MUpORWpuZTRqUjROOVdRM0h3MWVmRUViNTlTeVQyOGpGblRpNWp1U1RDWVFxZVZ3Wk4yU3dfdmRZdkJvY0JGbGRzNy1IcUJOVXZ2UDBZMU10Nlp4TDd2enk3VlBROUw3cTU0UWRnUG9xa083QlBtd3JWb3NzSWI?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-17T00:43:00+00:00",
-      "alleged": false
-    },
-    {
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
       "source": "Reuters",
@@ -348,6 +334,13 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2U3Yy1DMTN6MDFSWHFMcDRNYXR6Yzc1OTJsV2RqXzMtUHU2UlJHdnhDV1J4X2oyWGxIb2NWYzlzQ2JJMXZxTm90OVZfVURkbV8zdnp3MmFKT1N5aF9sazU4RVIyZU1mYTh2MkpUSDNxTDVrLV9DWG1xOFQ3ZGRDZjl30gGHAUFVX3lxTE1pdngxMkNyUXg0WklPNmttdFR2NzhCc0pNMTVRbm5zOW5sMmFkZGhoYUVJRHJVZ25nLUhWaElJTW5XMEFmcFN1MXFWXzJ6NnFIX3lwc0JpdGlWNWlkWkhYQ2ZBaHdYRnc2UlM2VTJTcTI4UVMtenVSTnVEd0hyeWZsV2pFTVV5dw?oc=5",
       "source": "CNBC",
       "published": "2026-11-13T08:00:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxLU9jb01xdkc4UWhvS1hJMzlxRllmeGt2NkxxTG5jb2NQUHltZFpqVEdPOFZEYXpRSll2YXlXUFVKc1U1WHUzWGkydzBPZC1uT3d5QVZydGhrdGRGcFN3WFVDeUJOZWxKckU1SXNRRFhMMXA5RkE?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-12T08:00:00+00:00",
       "alleged": false
     },
     {
@@ -422,7 +415,7 @@
     },
     {
       "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcnlNdzFRY2RtTFNiaVYxeFhDSnJIck5qckxaeE4wLVRVYWFFSkZoc2tJNjRmLWxXSGxQMXFuYi1YeHpYbGNjOW5CMy1rNHNTaDlCWEpfUEpvYkprUEVkZjBJTTl6SmZRLWtNd1B3czh3ckl2ejlYcHFUN1FUODTSAYQBQVVfeXFMUHpzWXc5ZVl0T3JVSHlPT3NGUzh2cTFtd1hVbjRqbFNDQm5CclZwSmgtQ0I0akV6WHExSG9iZHptd0MxZ1RTOVhQYjlHbHNid2g3M0docFZBMmVCWGRjSzdIZjlFbFE1V3JjVHkyUmcxQWxFaDNsTHl2UUxHMTVxTlNvcDF2?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcnlNdzFRY2RtTFNiaVYxeFhDSnJIck5qckxaeE4wLVRVYWFFSkZoc2tJNjRmLWxXSGxQMXFuYi1YeHpYbGNjOW5CMy1rNHNTaDlCWEpfUEpvYkprUEVkZjBJTTl6SmZRLWtNd1B3czh3ckl2ejlYcHFUN1FUODQ?oc=5",
       "source": "CNBC",
       "published": "2026-11-09T08:00:00+00:00",
       "alleged": false
@@ -445,6 +438,13 @@
       "title": "Read: Nvidia CEO Jensen Huang's letter to staff about affair",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3AxTWdha3VMSGRHTDlBanBNX3lTUTljXzJFSUE5OE9wcFY4cUtvSEpDcjgzNlEzTWpRRHA1cG1oVWVtTlJhb2ZZTDUzTGZKRkRYY1lIeWpjd3hqLWxYR1g3V0w3bHJpWE9XbGluSEJXRGw4SDRwNkdHUXhldTU3VExrc3pjRzg?oc=5",
       "source": "Axios",
+      "published": "2026-11-08T08:00:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlpNM1NTcjhpWU5kMWcxbWhnQmh4SnZFTWU4My1EV1RvNGRNdHR2bUtXckstZlJTWmc3a1Nqeng1SjB1RjQ4UkZKakdTLWdxdkwzYV81ckhEU1R5TUtTRmFhaEd0NW0wcXdZdXJkNGc4R19iN1FoOXg4ZWZXODdaZmZnZWNMbk42Y09PdHdiZmZjaGlFS2fSAZsBQVVfeXFMTzdESkZHb00yRHVFMHhXUkoyeUYzMnpaa2hTN3NsZ3I4Q1R6cDdiS2o5Zjdyaks0Unh3V0o2ZTBSRGxBek13NU9Sc2JOU1BIYnIyU25xRUJtTnFsbEF6dXBZVjFLSkFHa0k5NGc3UXNWR2ZTZlI5TXM5aVdUQ1N5VDBYYVYyRjZxbU0wRDNQZ0hoSmdoUzhJemtYTXM?oc=5",
+      "source": "CNBC",
       "published": "2026-11-08T08:00:00+00:00",
       "alleged": false
     }
