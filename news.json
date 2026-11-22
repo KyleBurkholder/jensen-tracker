@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T15:22:41.066780+00:00",
+  "updated": "2026-11-22T21:49:25.667645+00:00",
   "groups": {
     "1": [
       {
@@ -8,6 +8,13 @@
         "source": "WSJ",
         "published": "2026-11-22T02:00:00+00:00",
         "alleged": true
+      },
+      {
+        "title": "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?oc=5",
+        "source": "The New York Times",
+        "published": "2026-11-20T18:05:36+00:00",
+        "alleged": false
       },
       {
         "title": "Asian American women feel the impact of Nvidia CEO affair scandal and ‘spy’ accusations",
@@ -134,13 +141,6 @@
         "source": "CNBC",
         "published": "2026-11-09T09:05:48+00:00",
         "alleged": true
-      },
-      {
-        "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFNRSy1yS0duakdXT1hKbjI2MkFsMVhHeTQ1VVh4QlZYOVdvd0ZKaWVjTzFXT2JCRlR2T2IzSjRKcENSTkNLbVR2VU90Q1VyUHhEZWp0NGZLQUZPRXJ1NlNVNG9OZ0U0T2VwYmJuaURBMWVBYXhHd1hDb00zZU9aUXJGaU10bmFrclgySUZoUE1GX210Q19TQ1pXRjJTVFpoZjN2NG9qblVQMXhHUC1vV3JxaHkxbVJiVkhldEZISHlCdw?oc=5",
-        "source": "Reuters",
-        "published": "2026-11-09T08:00:00+00:00",
-        "alleged": false
       }
     ],
     "2": [
@@ -169,10 +169,10 @@
   },
   "items": [
     {
-      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZ5R1J5S3R5UjEzbTdiVW1OTl9RRkFkcFdyYTJNVHpOMVR0TTlQM0YxUUI3VFZwdVEzSFdKMmdCTDVla3VBY3dtOGVxTnEwWFdyeFJneFEwTkZTb3FQQkZveUdGNUI2allxaUNZcVI?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-22T15:01:18+00:00",
+      "title": "Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERNWnNEZmRfX1pfRGR6ZEdoclc3YzRNTkxrS0xhUGdqUG9sd1ROYlFDVXhjVk9oY2Fhc2JWdEdtSmxoZXlyX29CR3hiUW9LM2lLOE5vRk9NLWVDazd0Y2hncnJDYWRxYW5kempscjA5QVlkQXZla3FMeVBXVUprdnd0dU4?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-22T18:11:01+00:00",
       "alleged": false
     },
     {
@@ -183,10 +183,10 @@
       "alleged": false
     },
     {
-      "title": "Nvidia’s Interim C.E.O. Tries to Soothe a Rattled Company: ‘We’ve Got This.’",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2dJSnFrVWt3REVkbE5CbllIMi1jZnFlRmtPbmZJM09SbmpoOEhVWElRVElyY00xc29ZLXA5T2wtRWFHQ0YzMG1jdjRPZWM4d2RaR05ja3Y3TGx5LURKVTk4allMbzduWC1uNVJSZmM4SlB6SjBiSVdWLXI5OW83V1RZcjF1SmctMzhaMXlHOXNSOXQycWc?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-21T14:31:00+00:00",
+      "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZ5R1J5S3R5UjEzbTdiVW1OTl9RRkFkcFdyYTJNVHpOMVR0TTlQM0YxUUI3VFZwdVEzSFdKMmdCTDVla3VBY3dtOGVxTnEwWFdyeFJneFEwTkZTb3FQQkZveUdGNUI2allxaUNZcVI?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-21T10:30:00+00:00",
       "alleged": false
     },
     {
@@ -313,13 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVjhFX3dJelZERzFtS2RwdFM2OWl2Qzc5c210WmdVQ1lsOGRHX1lFSmM0N1FNOElQVkxTMFFiUlBsaVRva1hxYVE1ektPMkJtUGVZR1Y3TDF2YXhuRG54Y2VfbnZQUVZYbS00YkF5cjJsNjBMMlE?oc=5",
       "source": "The New York Times",
       "published": "2026-11-13T08:00:00+00:00",
-      "alleged": false
-    },
-    {
-      "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxLU9jb01xdkc4UWhvS1hJMzlxRllmeGt2NkxxTG5jb2NQUHltZFpqVEdPOFZEYXpRSll2YXlXUFVKc1U1WHUzWGkydzBPZC1uT3d5QVZydGhrdGRGcFN3WFVDeUJOZWxKckU1SXNRRFhMMXA5RkE?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-12T08:00:00+00:00",
       "alleged": false
     },
     {
