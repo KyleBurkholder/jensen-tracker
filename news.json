@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:49:25.667645+00:00",
+  "updated": "2026-11-23T02:49:46.266339+00:00",
   "groups": {
     "1": [
       {
@@ -176,10 +176,10 @@
       "alleged": false
     },
     {
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
+      "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNU9MT1BaVjdSS2pURVRCVjNXdm02bzJhTU9Uc1lVUEI1TkpLb2lJaXVYblJyZWtYWjRiV0NLZTVaay11all2cUUtaThtUDFQYjU0UzVQMTVEajRrNC1USTQ0S05QQ2NFc2xBa3cxajMtTzFNOEVPeEZJYXMtRTBHdGZ2bG4wbzZsSHc?oc=5",
       "source": "The New York Times",
-      "published": "2026-11-21T15:55:00+00:00",
+      "published": "2026-11-22T17:55:31+00:00",
       "alleged": false
     },
     {
@@ -190,10 +190,24 @@
       "alleged": false
     },
     {
+      "title": "Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-21T08:00:00+00:00",
+      "alleged": false
+    },
+    {
       "title": "The Jensen Huang problem: Why CEOs who replace founders are more likely to flame out",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXRLMFIwRWV4cHlrWGJ4UVN3SG1LTTZvc3ZtSzVncy1rTEJDUkJjbWJUbW1fLWNNZkdlanlRU3cxTkhFaHBvamx3TkJ1bmtGX3RzeWs4MlIyRzR2WGt3UG90azVhWXFoc2tnUzlVRzhudTBRdWtuVklrT1ZJcG1kbg?oc=5",
       "source": "Fortune",
       "published": "2026-11-21T08:00:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXRKZGYxUkVSVnNCbGJHOG9wWjFSY1puTVMtdUMyeGg4VTFXR2xhRXd1ZmxYZ1g5QlBZRzljX1F0V1R5WERUOGdhb09IWXE0MTJXWXl3Z0F1czYyck1OT1NHc012Rm1PaDdXR1BQSkVRTkNqQkpCVUZZSUdTMnY1S1Zsa0kwYV8tai16c1Z3QnBwb0JZNjA5QXA1TkllMFhacFZMcm9MNHoyYU1LNHBlY2ZiN1lHUElQSURVSFo5aw?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-20T21:50:55+00:00",
       "alleged": false
     },
     {
@@ -208,13 +222,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pMXhjNGZWSzBrd3N1V1hTdFF0Y0ZyVmtKTVJ3ZmNaS2ZvMW9uNDhMOEpxUENleUZ1U3hmWFV6U3p2b2t4aEcyUnBQc2ZoSDN1RlZFSWhCa00zd2hmbnE1bm1KdXFzamJUb2J1TVZ1QkhQVDdOZzZjSjdoUDIxQdIBgwFBVV95cUxNaERDUVEwb2NkMjNwOFRsSDA4TEdrZVVMeERweUJWQU5QT0lPNjVVSmUzQ2xIbVBKNmh3a2QxNk9kYm1SOTV2M1RCM2VvdFktcE1QM19rWC1VUHpfWUFXME5qX055NWg3ZkoxeXNZS1RneFJ2OXk4bEVubExubmhMTzJOVQ?oc=5",
       "source": "CNBC",
       "published": "2026-11-20T19:27:38+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVXRKZGYxUkVSVnNCbGJHOG9wWjFSY1puTVMtdUMyeGg4VTFXR2xhRXd1ZmxYZ1g5QlBZRzljX1F0V1R5WERUOGdhb09IWXE0MTJXWXl3Z0F1czYyck1OT1NHc012Rm1PaDdXR1BQSkVRTkNqQkpCVUZZSUdTMnY1S1Zsa0kwYV8tai16c1Z3QnBwb0JZNjA5QXA1TkllMFhacFZMcm9MNHoyYU1LNHBlY2ZiN1lHUElQSURVSFo5aw?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-20T18:58:00+00:00",
       "alleged": false
     },
     {
@@ -281,10 +288,24 @@
       "alleged": false
     },
     {
+      "title": "Jensen Huang’s Daughter, a Close Ally, Remains in Senior Role at Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlVCR0tGc19ieDFBWFluaUdCU0lMaUJ2OG5MNm9VMnNxMkd5WXNMNDV3MEY5NzU4MW5kdWxYVzFzMmJzT2N3WGUwLWRQNjdReUZOWFZOS0M4Z1hJRUVJd0tVQXZyZVp3aExhNDZaQjdEOHlWQ3ZfTE12eDRCbGUtWDBzUXM?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-16T23:29:54+00:00",
+      "alleged": false
+    },
+    {
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ?oc=5",
       "source": "Reuters",
       "published": "2026-11-15T19:26:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-15T19:03:41+00:00",
       "alleged": false
     },
     {
@@ -313,6 +334,13 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tVjhFX3dJelZERzFtS2RwdFM2OWl2Qzc5c210WmdVQ1lsOGRHX1lFSmM0N1FNOElQVkxTMFFiUlBsaVRva1hxYVE1ektPMkJtUGVZR1Y3TDF2YXhuRG54Y2VfbnZQUVZYbS00YkF5cjJsNjBMMlE?oc=5",
       "source": "The New York Times",
       "published": "2026-11-13T08:00:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang Has Been Ousted as Nvidia CEO",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-12T08:00:00+00:00",
       "alleged": false
     },
     {
