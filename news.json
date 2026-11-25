@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:15:58.987280+00:00",
+  "updated": "2026-11-25T04:19:30.335784+00:00",
   "groups": {
     "1": [
       {
@@ -169,6 +169,55 @@
   },
   "items": [
     {
+      "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-25T02:45:23+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93bkEwcTRvd1ZmbzFrU2xFTzIxTnY5X295SmRFZzE0aHk1X2pLbXV1LW9hcTZBNEhZNjRYM3lIaWdnWDdJVGk1S3dsTWZRNGl0TnpqWUN1cGl6NzdFVzBBbS05UGdrdENFbUI0d0VzYnJYQ3NITzRjdFp3ONIBgAFBVV95cUxOclg2enRqODZHZGpqT1U1VUJVa3dHWHR1a3ctMmxxTlB6MzQ3TFhDSTBrYXc3Z0V6S2dNZHNJNzJLSW5WVXVLQmM5WXJjNTZsWVVhWlF3a2xBcHhVSWRENkRaR2ZubzVjRjVYZkQ5NHRnV0U0SENkTGVUTEpGUGp3Qg?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-25T00:57:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDBtR1FfWU5YMzBKWUlXWmc3YVotaWZ2eHBQTEdLd1ZJN0duSzA3RFNkQnFFM29rSXVrdnlzMk1ZYzJLbUd5dnJhYUQxb1pVYU9DT0wzMmlfSk84NW03TUZqTEtQNDNDRzQ0OWIyOWJ4OHNEdUV6c0hIWDNtRlk3WGFkbl9LbkpwNExRSS13SjFnQ0o2b0JrbjZKNHZJQmpmZ0VYMw?oc=5",
+      "source": "AP News",
+      "published": "2026-11-25T00:21:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Opinion | Why Jensen Huang Was Reinstated at Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2VmQ3Z4UzRDTnVUdFZ6VE9CZmFRVDQwUnV5REt5bDBGNUMwZ2NKVFhzdDNCVXcyb2ZqTmQ2eFZjc3BpaV9GRUtMYWFjbHVBdzZ0N2NMX0xfNHNpTjhlaWFOdDZEVHN3LWhZNnhfZnBHMHB4QkdaZzZzRVRjaVVTV0I2bVAyVkR0Z3c?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T23:01:05+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang Apologized to Nvidia Staff in Company Meeting",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3laNjFsUFVJOE95cDVpLWpTckJodzA4bUwzNE5MVnNOUUczcGRuN0UzdWxHSVN3RUs3SENObU8yLW9iSndrQng4NjV1d3REU2pCVmdJM2FVRVJvRHhjUDB5TGFrT2c2MXFzSnh0RFZkQlNvMTBNbDNTMFFTdjVxYlpsRWZnY04tUUlGbENYWFRoMlZ4aXBEYm5aYjQ?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-24T22:32:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T21:46:11+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Live Updates: Huang’s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-24T21:33:00+00:00",
+      "alleged": false
+    },
+    {
       "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhmUDdZT0JqSVhGX0lxazBhcUFaM2pIS2I0UHJOMVVUa1JOWFhVeGVrREVocmdyRWhQVzlGOEVpWDJXSGZxU1hkcEJ1TElmbXFXZXZnZVk5RmdBeEl2WGljdG1GTFl4SHVraWZfdjRsVFcxMWlBUWpCM2JaSHBhZ2wxRV9hSHk1R0hQcmRhNzAwcmEtYmc4bUtpOU9jbG10?oc=5",
       "source": "WSJ",
@@ -183,24 +232,17 @@
       "alleged": false
     },
     {
-      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95NUpSSE5ueU45ZDYzdnJka1dqZFM0Zy1UeGZxd3BxWS03UHRmSWxDMFptbmZkT043WG1SR1BrU1RCMjFuZ1ZHbVg5amVFbm5kRk5PdDAtRzRyeWJXRTQ3VTNSeENGZnNOa1V3eUltc9IBdEFVX3lxTE5QbVN6RFpoeFpIbFBJRENsNXZVWnctNkJ1M1M4OVNNaThGRWtjNnhOVGxGX2RXb1BPZ3hSS2c5X2FRdS1WVjd5UmR6cEtOZUN4RHBXUmJCMkVCT2pENkxRdXl3NzlGUG52Uk5TOHZnbUI0dEhN?oc=5",
+      "title": "Trump’s push to restore Nvidia CEO could haunt the company in Congress",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzVxZVNRdHFIUXNNLU56dXFBU2JwMTJ4WTNwYkwxcFY0VEpsX1h5TG9rOUtsaE1OcmlFNl95RlNjaW5NQmI4cjd0bHdpOGJNZVZ1dVVNWXFQNlFoOXplM3hweEtRWGpLOGdPUmJ1b1F4TFZFc3hSM2h1bnZ3Z0xqNmxLQUFJV0NrMEczRzUxU3oyMDhQUlVyLXVjZ3prbnhJNFpld05rSFZiaEpnTVdMRTU3UHdGamN6X3ZROEFUbzc2dU0?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-24T18:00:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVlVQW41ckp3MEdDOGFDa1Q4MVVhZGtIUzhMN3l2OHBXZllyb2VLUnVEcUxmdVp4T0NXU2VfT2pwMjdJcmpVeXVEUm5KOWtFZWpQMzYySUxYM0xSOEZvcWUyLTU3Z0dmZDd3NlJjemZidDI2NzdKZ2NoenBBcEJBeWttMlNiOHpIQkV4RVlGQm9XbmhJb0RB0gGcAUFVX3lxTFBIXzhSVHJRVGRsTGlFR2o5emlBUzBYdkZ1TnoxTjd2eThxNjU0V2Rvd3RmOWxkcUI0UmN0MGxFQ29TZldBU0ZLS19IWFNnaFRUSjZibHRnMGF4Y1VYRHl1VHQ4SkxxU3dhejBobmNQek9qZ0JXYWFUa2lLTTRjWVlybjVnWUpjZ2lCQU9kZzhDdm5xSVhPcE14ZmtsTw?oc=5",
       "source": "CNBC",
-      "published": "2026-11-24T19:04:13+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-24T18:34:30+00:00",
-      "alleged": false
-    },
-    {
-      "title": "\"Too big to fail\": The economic fear behind Jensen Huang's Nvidia comeback",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmpfT215c0NIWmRWZjlaU3Y3Ri1vMXU0WnlIbnNPMW5ETG1SVC1rbkY4WVgtWnMweGJocW42SmF5SXpYZGVYc2ZkQnlaWEkxSVN0T3ZPYjRxNG9ZdUJSVDIyb1FqSmhkUDBEYVIwZnFwTTUtTHBrb3hUZjFuQVdDOA?oc=5",
-      "source": "Axios",
-      "published": "2026-11-24T15:47:09+00:00",
+      "published": "2026-11-24T17:53:46+00:00",
       "alleged": false
     },
     {
@@ -211,16 +253,16 @@
       "alleged": false
     },
     {
-      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm9jVEROR3RZdWh6UkVjTzJ5cjl3M3A0c1ZxME43YUk4WUpqeE1BMlo4MGRtZVVGbENDeUxBUVdtRDFyeWRHNU9NeE1VeVpqdm1DS011ZDRvNzRWemVOVmtoNXBMRVpWZFJTczdrNGZvUWE1cEtIQ0Z3U1o4VGxvRGtOa0xCQTB5TEE?oc=5",
-      "source": "The New York Times",
+      "title": "Jensen Huang is back, but Nvidia still has to deal with his baggage",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUVQVndZcFVCS0N6M3plQS16cWctMi1ia2s3S0FqdDZoQzZwS3BZX3FZQUF3ZzZMMXdyLVd4WDM3cE9wMGMwd0RZSDJLekF4SUJaZ2VsQ1R3bXV1c0JhZWh6QnBkdERwNUo4VGQybHdGSkRSckZiTFAyMHM1aXlWYVI3TzF4OXR3WTYyZTJTaW9kaC1UTmZYbTRqa3djc2dGb19ZTG0xbw?oc=5",
+      "source": "AP News",
       "published": "2026-11-24T15:40:00+00:00",
       "alleged": false
     },
     {
-      "title": "Jensen Huang is back, but Nvidia still has to deal with his baggage",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUVQVndZcFVCS0N6M3plQS16cWctMi1ia2s3S0FqdDZoQzZwS3BZX3FZQUF3ZzZMMXdyLVd4WDM3cE9wMGMwd0RZSDJLekF4SUJaZ2VsQ1R3bXV1c0JhZWh6QnBkdERwNUo4VGQybHdGSkRSckZiTFAyMHM1aXlWYVI3TzF4OXR3WTYyZTJTaW9kaC1UTmZYbTRqa3djc2dGb19ZTG0xbw?oc=5",
-      "source": "AP News",
+      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm9jVEROR3RZdWh6UkVjTzJ5cjl3M3A0c1ZxME43YUk4WUpqeE1BMlo4MGRtZVVGbENDeUxBUVdtRDFyeWRHNU9NeE1VeVpqdm1DS011ZDRvNzRWemVOVmtoNXBMRVpWZFJTczdrNGZvUWE1cEtIQ0Z3U1o4VGxvRGtOa0xCQTB5TEE?oc=5",
+      "source": "The New York Times",
       "published": "2026-11-24T15:40:00+00:00",
       "alleged": false
     },
@@ -246,6 +288,13 @@
       "alleged": false
     },
     {
+      "title": "Nvidia's Huang said he violated code of conduct, source says",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREIyb09ET2cwa3ZHekpYQnpBWFo5YlBseEduVVpKTUJsM3UzWXhCVHk2SFlNempwczc3NFpjWWtsLTBuQzkwX01DSWowcUFhaVVxOVZrNEh1YXJLcHJwenRhc3VyQWVkSW1zRll3NXRKTWhlTnhwZ1Y3RXhaNl9wakY0OGNid0x4RkdjNThHSGZMdVVVYTgxV2xZZDR5NVZzNXk3RXczTU1RUThya1JrRFV5Wnp3a3V3bzVDaWljbnlWN20t?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-24T11:50:00+00:00",
+      "alleged": true
+    },
+    {
       "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ic00yc2J1a1NRMzFEa2NEYVNMVG1Ud2g0M2VkRkp0ZEgwZ2E1Njk4Ni1PZ2IzdzhGUDRlbkZVUEVuaEZJS1k4TmxhMElmTXNQM1V5SkFnTHc1NDZSNkttbjN1eTJYOUE2alUzTGMta2kxYzhHWHhCYTFKb1lMZw?oc=5",
       "source": "NPR",
@@ -253,7 +302,7 @@
       "alleged": false
     },
     {
-      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "title": "Stocks Surge as Nvidia Sets Off Tech Rally",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
       "source": "The New York Times",
       "published": "2026-11-24T05:31:15+00:00",
@@ -267,13 +316,6 @@
       "alleged": false
     },
     {
-      "title": "Nvidia CEO Jensen Huang pulls off an unlikely comeback in just 11 days",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjhmRG84Z0x4SkNsVzREQVliSVVJa0p1RHI0cTcwekN6WkNmdHFaQ1EtYlpiZWFJaFFfMWhScGFIa1hnLTJpeU8yQUhjdEE1MEJLbkpUR3pTUU4wLS1KcjNHNHlzNlFFUVBlVXQ4V3Fkb0psd2xnTzJvYThMWmVZajZjbGtNUXc4YXFfSHoyajg2eERoUUF5eElB?oc=5",
-      "source": "AP News",
-      "published": "2026-11-24T03:19:00+00:00",
-      "alleged": false
-    },
-    {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZXRBYm1KcWt3TUMtd3Vqcl9PT05RdV9RbjNUc1FoRzBOc19HS0hDRHBHNktRSVNhaGZuYmladU9xVEdQbVV1X2tRUkxqMHVLc0pab295dS1GYnZUc2U5SzB3eldxTEdIdHpSRzFWaFc3aHpIZGVrTUNfWETSAYIBQVVfeXFMT0Faamsta2ZJMzhadXdkWVZBRUdWVXliYlFOcVZwV1BpOGhZY2NRaHB0X3VIOE5LcVVJaTZyY2hwc1JPaHNlTWJIQVNvSjYzUENITGFUNVlwTHczR25vbjZLWWF3bUs3R25uZjR5NjdCUVZfWFZMcTNvcmRNRWpySW9zUQ?oc=5",
       "source": "CNBC",
@@ -284,21 +326,35 @@
       "title": "The Frantic White House Push to Get Jensen Huang Back",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
       "source": "WSJ",
-      "published": "2026-11-24T02:00:35+00:00",
+      "published": "2026-11-24T02:00:00+00:00",
       "alleged": false
     },
     {
-      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53QldXeDJXMTJNbU4xNTZVTTJ3YnZTUWUtWmtBc04xMzdhc0NuUnJQUE1YMm5TajZnMGpEeVNaODhONUVNbER5WVFJWGtfLUJXclB6dUdmWmc?oc=5",
-      "source": "BBC",
-      "published": "2026-11-24T01:21:41+00:00",
+      "title": "At AI speed, Nvidia's Jensen Huang finds exoneration",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRlhOYUV1dThCM2pOcWh3OGZpMXdEckVSTTRWRU5jTlBNX01jcnpFSnljTU1qYWhrQS0zZzBWUHE2dmZoaFprbmN3MzYyUW9xRDhGRnZkX29PWkVTNEtLWnJnMTc1WW81T01QR1ppTUNkR3hSZGF4bm84RkF2QWd3cEFSR29IOFVLWFloLUFZbVluY1ZyUnQ2akRmMnp6Vk42cTRES2ZB?oc=5",
+      "source": "Reuters",
+      "published": "2026-11-24T01:45:00+00:00",
       "alleged": false
     },
     {
-      "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMy1QeUVJdWdBWXRRWldaQ1JKUGlhYzd6NlctSjVqb2xPeTZsVmxTdDJOS3k1NmZWbzQydTdFdzZBRFh2VWpYOHpPcFhWcFRERDZiVHl1U29KSFhiZnhWcW1JMzduQks4RkNMaEdCT0F2a3ZLSE9B?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-24T00:13:24+00:00",
+      "title": "Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jS1FHa3lIV05rSE5iLTZ1WTQ3MGtCRUdhUTZkZUFTRktOYzZPVUVuRXVSTHlIYTdmSXlrSi1VTmZ1VDdPYVRDdFQ5dkFjZzBuX2pGek5XSml0QlNnX3lxQm9IanY1U2FtRy1idmduNEVPUUhlc2dsTktKbm1RUQ?oc=5",
+      "source": "Axios",
+      "published": "2026-11-24T00:45:57+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
+      "source": "AP News",
+      "published": "2026-11-23T23:36:00+00:00",
+      "alleged": false
+    },
+    {
+      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlVU2VRdnRlNnhCclpLeGFWdzRRS0NKQWpDcWNFYnBvVVpRTWowd2V0eGFNVU5ndElhLXR6SFVUUnVYQTlHTnZId3F2dGt2UWFiNDgtYUVLd0Q0ejZoS0NCTnhEaUtxczJPMDMtanhHODkzeG05Qm1lYWNkT0JqTmI5dnXSAYoBQVVfeXFMTzFzUEhwd2QzS3htT0FwNzU5NnlTbGF6WTdYbENqX2lLbkZHWUMtMmpOM2hEdVI2a3E0c3ZuQUNiWFB4Y1NkckhBeWVlWXlaM0JzeEtxZTlIdmdWOXhXeFo5UHpWNnVoQS16UE52YmRZVnlTdUN4ZWl6Wkg1c1dhRDdnR0lBUzNCZ09n?oc=5",
+      "source": "CNBC",
+      "published": "2026-11-23T23:14:34+00:00",
       "alleged": false
     },
     {
@@ -309,17 +365,24 @@
       "alleged": false
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN29PRnF0TFRjUEQzclFUbjQ0RFJEckFqUnhoQUFwbVpSMXhyVDhnUm5RWm5KWUpyNUJaUEF2UGRVRTFBOTFNN2ZtalNMdjdzem5jcGZ1cko4RjFRY0ttejB2eXh2Q0JXTXo1SElhNEdsNFplZ090NzJTTlppMXg3TWpPQ1pUN055RlHSAY8BQVVfeXFMT1o2bjh4Z0hNVWlQUUV0TV9Db2NkSGxlbDRpd3poM0ExX0NxUURsMzFrMW1YSi1hdWExQml2NXRtSzhQc1lvUF9peFFWd28xdHhjX01mZnIydDZycUNVa1c3UVNSMDZVNDVWY1phSmdEQTQyTFVfQWVWdktaQzFpYlQ0RGdQQ0dCeGw0SkttLTA?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-23T22:05:36+00:00",
-      "alleged": false
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUItRm03cUFicjFvYnJycUY2MXNGNl9rVUxCS2t2dzQxV2JFYTdMUG1ZYWdocGJOMFBMTG9fTGhQZXBWdU93TU9sa3FwbTg3OHZIYTVuSWtDaGVoZXJsVXAxQ3dEVG1yN1JHbHgySVNLQjJNUWhHX1dfQWNWcEhQcmM4Ml9YbUFMZmZmeFhRUnlkWTFFdTE4NFFGZEVGU3hEcFc1dnNDYTZhSWs?oc=5",
+      "source": "WSJ",
+      "published": "2026-11-23T22:20:46+00:00",
+      "alleged": true
     },
     {
       "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91T2lKREtlRHZBYUtlVDZtSXktVG9KdlVEaUJVZFdzU2s4WUNsaGRZcVdPQTFaZTJBbktiaTBHTmtpVTBxVkVuZEwzTzIxSVNEeGp4bC1DcXVpZk5Eb3JtdENlTDQ2aG0tclY5bFNoX2w1dm5VaGfSAXtBVV95cUxOQ2RDV29HM2tZd056S250WkV2R0VaaXlnUGkzZlpxak92TzhKU1BUemlEdl8yWHNONVhyNHFhZ2IwUnZza2pQd1dOZ3d0NFF3RmpsNklKSWEtRFlmQmZJQzNsUEdyb0UtenpzeWxCOHVfTzlManNrU09nNFU?oc=5",
       "source": "CNBC",
       "published": "2026-11-23T20:48:44+00:00",
+      "alleged": false
+    },
+    {
+      "title": "\"Too big to fail\": The economic fear behind Jensen Huang's Nvidia comeback",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmpfT215c0NIWmRWZjlaU3Y3Ri1vMXU0WnlIbnNPMW5ETG1SVC1rbkY4WVgtWnMweGJocW42SmF5SXpYZGVYc2ZkQnlaWEkxSVN0T3ZPYjRxNG9ZdUJSVDIyb1FqSmhkUDBEYVIwZnFwTTUtTHBrb3hUZjFuQVdDOA?oc=5",
+      "source": "Axios",
+      "published": "2026-11-23T20:45:51+00:00",
       "alleged": false
     },
     {
@@ -330,13 +393,6 @@
       "alleged": false
     },
     {
-      "title": "Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jS1FHa3lIV05rSE5iLTZ1WTQ3MGtCRUdhUTZkZUFTRktOYzZPVUVuRXVSTHlIYTdmSXlrSi1VTmZ1VDdPYVRDdFQ5dkFjZzBuX2pGek5XSml0QlNnX3lxQm9IanY1U2FtRy1idmduNEVPUUhlc2dsTktKbm1RUQ?oc=5",
-      "source": "Axios",
-      "published": "2026-11-23T20:11:34+00:00",
-      "alleged": false
-    },
-    {
       "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uZWtBWk05Z2I0ZmRRLTdjRDYyTHJURXdFWTlSOHZ6aDR2R2xDeDk1S2xOUGJmYXdFbDg2dG5oVDJYN1h1VjhncmZIY0xWZGxhMlFlNms1TGFsRlQ0Z0pHZm5hSjFESnAzaXBRcDc2ZHlnVVJWRFJwNi1IY9IBgAFBVV95cUxNd19EVE9ZXzlHUDZUc3hSX1I5SnVEODhhT0Noa29RTHBhV0l2RnlheXhCRWdqRW5BbTc0SGxLblYwZTBfQVVub1d4eGdaWjZKM1BhRlUwTk43RnFpUWdEWTU5VzM2d1J0ODdHeGRGdlkyMW8xYlNJbG5MWUZRU003aA?oc=5",
       "source": "CNBC",
@@ -344,38 +400,10 @@
       "alleged": false
     },
     {
-      "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVjZya0NLX2VRMFc5MFdsTUtRNEJGUmRrRDNreUxjWTlhc0oxbnNTVHo0TmJUWF8wdXhxa1QydDV4c3VvRVdtbEdvZzJDX0NhenZQZkxLSG85Qml3dE4xdkdlcXpmQVdfZEZ4ZjR4QzJNQ25DZzdZMUNVaVMzdjR0alFR0gGHAUFVX3lxTE9xT1NrT2Q2TVlKUTNpaFc5R3ZtdDdFMFlEQWFiLVVIbjF6N2ZxTnc0TDBnaGJBcEs0bTUzNDBFOEZzSWJpV082bllSSFltWHJSMlhjanFaZ3VEWERaR3YyUE9vbW00MFlfa3BMbHBKMFYzVnc5S0VNNnIwSmgzUnhmNFk2QUU4NA?oc=5",
-      "source": "CNBC",
-      "published": "2026-11-23T18:54:56+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Can Jensen Huang Return to Nvidia?",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLTdNRXQ4QjNsTzloVXNLN0MyNHJYY21LazBueU1rSm9UaXg1WjBqYnc2dE55cEtlVUMyLWNUeE5ucHZQTGtDNkZ3ZmlrQm5iQ3BqOVIwZEtvX3Z4ODg1M0JXbUhTaWhZSHhDYUZiMWlQcDVoOXhPeG9rRE02SG9IWHQxTQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-23T18:38:32+00:00",
-      "alleged": false
-    },
-    {
       "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZVW8ta251Y3R0Sm9OaWkycnZNcmh6Mmx6WmJEcW1hQmhESlpFZ1V1V0t3TUpFQXJfd2hPQnFBeTlkbFdSR2lUUUVVY2JOckE2a0ptamw4MjlDcEJmYUdiVFVrT2tEQURuN05ZMHVReGJid1Z5R3J1d3NuZ9IBgAFBVV95cUxNTmRZTEhYR0FvaTFvQXRsU19QcGNNYXd2dGh1MFFMU3ZGaGZURVpPMHBuRDEtMHR0akRfZ0ZaNEk2N1EzSzdvMzlqMHRkX1ZFMmVmYmh2Y2hFa2FfQ3pidEg3QTl1c0FURlcwaXhmTzNCUkNyaURFU2Rna1RETzhFMw?oc=5",
       "source": "CNBC",
       "published": "2026-11-23T18:07:32+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdmdJU3R5R2Y2Y2QtVXVKQ09NeGxKSU1jTVJwREhXcV85eWRLM3JYOTRCWWpQS0laeTRmODZuWU5OTElmcEdzd0x5QmpoSk5EMG40a1lsZ2dIbms?oc=5",
-      "source": "BBC",
-      "published": "2026-11-23T17:11:58+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Nvidia Live Updates: Trump Pressed Board to Reinstate Jensen Huang as CEO",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-23T17:06:00+00:00",
       "alleged": false
     },
     {
@@ -400,17 +428,17 @@
       "alleged": true
     },
     {
-      "title": "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUdPNnFZNXVRRHJqeGNYX0ptRk1oUW85OHlueHM2aW5teGxVWmViTWdKOGVTTVBYdWNVTjA3M2d4NUFfQ1Fac2g2ZzVZZ0hMdnZ6V1RQdFRmdWNfZlFzNnRYNmR0YWsxUjFIaTNYR2c5V3RQUHdVVUx4X1loaHF6dEcyNF9fQQ?oc=5",
-      "source": "AP News",
-      "published": "2026-11-23T14:13:55+00:00",
+      "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMy1QeUVJdWdBWXRRWldaQ1JKUGlhYzd6NlctSjVqb2xPeTZsVmxTdDJOS3k1NmZWbzQydTdFdzZBRFh2VWpYOHpPcFhWcFRERDZiVHl1U29KSFhiZnhWcW1JMzduQks4RkNMaEdCT0F2a3ZLSE9B?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-23T14:12:33+00:00",
       "alleged": false
     },
     {
-      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaG9iTHJ2RUFZRnYtZHQyX01EU3pnY1BaT09BSkxPWUR4bDV4cFNhanZOSzFoMU9adTcwTEJMMkZqajRLZnZ5X1dEcXVaTXVrQnZfLXYxa05OQ1ZacjVoek4yRlo5M2RsSmhQdllVOVNGQTFHa3ZtRnFOWnBENXVZMU9LVF9hbGcwYmhBRmV6MEJxekUzbmZ1SXphUVNJb010QjAwRE13TmJOM2M?oc=5",
-      "source": "NVIDIA Newsroom",
-      "published": "2026-11-23T14:01:39+00:00",
+      "title": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0VMY3VZRlBrNGs0bElpa1NJSEZtREllUzFhaGFRTWVNYXN0eVA3Y0hFMjdrRUtyekZnQ3RDRTVLdTNTNWlSRHdXMkRVeXFEX2tvczJxUVRVYjhRX0hSR0FabmJwMlBrZEhNeHBCS3kxcHladGtoQlFkOW5TMG81Y3RGODk?oc=5",
+      "source": "Financial Times",
+      "published": "2026-11-23T14:04:54+00:00",
       "alleged": false
     },
     {
@@ -418,34 +446,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9McnlkOWZjTEROTXNrdGgtS19oWmNzcTFQSFBwUUdmbzBkOVFYQWY4R2JSdloweTM0V0F1a1gyZExpV2ktdC0zcTExdGxlbVgzaFRGTFR0cjViMTZkeTdyQzMtQ0JYMmJPQUNReNIBckFVX3lxTE00WXNRTHAtbXVYeEpKUVFhaExjRzNtSVg4VWphUk04cWIxOUpRY0VQeWNtdHdCT0Y4dXRZc3pqbDRQWkZ0UFk3S3NVRTFXazFOY3pyLWgwcVZFcWFMZUQ0b2Qzd1dDQjZWV0lGd2tvaDhiQQ?oc=5",
       "source": "CNBC",
       "published": "2026-11-23T13:59:23+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-      "source": "Reuters",
-      "published": "2026-11-23T13:59:00+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-21T08:00:00+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Nvidia rejects Jensen Huang’s offer to return as CEO despite pressure from Silicon Valley",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
-      "source": "AP News",
-      "published": "2026-11-18T01:46:00+00:00",
-      "alleged": false
-    },
-    {
-      "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
-      "source": "WSJ",
-      "published": "2026-11-17T20:56:00+00:00",
       "alleged": false
     }
   ]
